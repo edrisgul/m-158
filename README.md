@@ -259,7 +259,6 @@ force_local_logins_ssl=YES
 - ![FTP Login FileZilla](screenshots/filezilla_tls.png)
 - ![Verzeichnisrechte](screenshots/ftp_permissions.png)
 
----
 
 ## Fazit
 
